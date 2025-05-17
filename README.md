@@ -24,7 +24,7 @@ This repository contains my work from the Data Science internship at Accelerate.
 - Visual assets and charts
 
 ## View on Google Colab  
-[![Open in Colab](https://colab.research.google.com/drive/1k8OUwArg3lnkuhXqjS8qSWnE4cMHKMNC?usp=sharing)
+[![Open in Colab](https://colab.research.google.com/drive/1k8OUwArg3lnkuhXqjS8qSWnE4cMHKMNC?usp=sharing)]
 
 ---
 
